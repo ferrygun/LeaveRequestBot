@@ -1,0 +1,34 @@
+[
+  {
+    "country_ID": "Malaysia",
+    "delegate_to": "abang@ada.com",
+    "fromDate": "10/09/2023",
+    "setup_office": "Y",
+    "toDate": "15/09/2023",
+    "visa_letter": "N"
+  },
+  {
+    "country_ID": "Japan",
+    "delegate_to": "doraemon@ada.com",
+    "fromDate": "18/12/2023",
+    "setup_office": "Y",
+    "toDate": "26/12/2023",
+    "visa_letter": "Y"
+  },
+  {
+    "country_ID": "Singapore",
+    "delegate_to": "sg@ada.com",
+    "fromDate": "28/12/2023",
+    "setup_office": "N",
+    "toDate": "31/12/2023",
+    "visa_letter": "N"
+  },
+  {
+    "country_ID": "Thailand",
+    "delegate_to": "thai@ada.com",
+    "fromDate": "19/10/2023",
+    "setup_office": "N",
+    "toDate": "21/10/2023",
+    "visa_letter": "N"
+  }
+]
