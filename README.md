@@ -1,2 +1,2 @@
 # LeaveRequestBot
-https://medium.com/@djajafer/build-a-dialogue-chatbot-using-azure-openai-and-langchain-23a60835cc5
+https://djajafer.medium.com/build-a-leave-request-bot-with-azure-openai-langchain-and-slack-bot-6a2eb42c66bc
